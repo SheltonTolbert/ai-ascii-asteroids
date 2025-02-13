@@ -1,0 +1,20 @@
+{
+  "name": "asteroids-text-game",
+  "version": "1.0.0",
+  "description": "A text-based version of the classic Asteroids game where user-provided text replaces asteroids.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "http-server src -o"
+  },
+  "keywords": [
+    "game",
+    "asteroids",
+    "text",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.0.0"
+  }
+}
